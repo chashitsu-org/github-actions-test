@@ -1,0 +1,14 @@
+{
+  "name": "@chashitsu/github-actions-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matsuyuki <matsuyuki.eca@gmail.com>",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
